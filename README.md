@@ -4,7 +4,8 @@ Timely delivery is crucial because ir ensures that the project meets the market 
 Project managers can ensure deadlines are met by establishinh claer goals, maintaining effective communication and proactively managing risks and resources throughout the project life cycle.
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective cost control contributes to the success of a software project by ensuring that expenditures remain within budget, preventing financial overruns and enabling the allocation of resources to critical areas.
-Strategies used to prevent budget overruns iclude;1. detailed project plannning
+Strategies used to prevent budget overruns iclude;
+1. detailed project plannning
 2.Regular financial monitoring
 3. Strict change management process
 4. Proactive risk management
